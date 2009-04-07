@@ -1,4 +1,5 @@
 RubyLearning.org Participants' Countries
+(FROM SAMPAIO)
 
 Now three tools available.
 - ruby_launcher.rb   : Launches Shoes app, shoes_countries_new.rb. Specify the course name.
